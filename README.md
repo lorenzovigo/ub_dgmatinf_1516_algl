@@ -1,2 +1,2 @@
-# ub_dgmatinf_1516_algl
-Álgebra Lineal
+### UB Doble Grado Matemáticas e Ingeniería Informática
+# ALGL - Álgebra Lineal
